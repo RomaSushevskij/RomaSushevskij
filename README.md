@@ -1,6 +1,4 @@
-# 👋 Hi, I am Roman Susevskij
-## 🧑‍💻 I am frontend developer
-### 🧑‍💻 Learning JavaScript, React and more ###  
+![Header](https://github.com/RomaSushevskij/RomaSushevskij/blob/main/assets/header.png)
 
 ## 🦾 My skills:  
 <div align="left">
