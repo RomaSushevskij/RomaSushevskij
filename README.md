@@ -8,14 +8,16 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121011?style=for-the-badge&logo=typescript&logoColor=1D6CB9">
 <img alt="React" src="https://img.shields.io/badge/react-121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-121011?style=for-the-badge&logo=bootstrap&logoColor=6F11EF">
-<img alt="MaterialUI" src="https://img.shields.io/badge/MUI-121011.svg?style=for-the-badge&logo=material-ui&logoColor=white">
+<img alt="MaterialUI" src="https://img.shields.io/badge/MUI-121011.svg?style=for-the-badge&logo=mui&logoColor=#007FFF">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-121011?style=for-the-badge&logo=redux&logoColor=7248B6">
 <img alt="Flux" src="https://img.shields.io/badge/Flux-121011?style=for-the-badge&logo=flux">
 <img alt="Rest API" src="https://img.shields.io/badge/Rest API-121011?style=for-the-badge">
 <img alt="axios" src="https://img.shields.io/badge/axios-121011?style=for-the-badge">
 <img alt="TDD" src="https://img.shields.io/badge/TDD-121011?style=for-the-badge">
+<img alt="Storybook" src="https://img.shields.io/badge/Storybook-121011?style=for-the-badge&logo=storybook&logoColor=FF4785">
 <img alt="git" src="https://img.shields.io/badge/git-121011.svg?style=for-the-badge&logo=git&logoColor=E94E31">
 <img alt="webstorm" src="https://img.shields.io/badge/webstorm-121011?style=for-the-badge&logo=webstorm&logoColor=3ACEB4">
+<img alt="visualstudiocode" src="https://img.shields.io/badge/VCCode-121011?style=for-the-badge&logo=visualstudiocode&logoColor=137FCB">
 <img alt="MD" src="https://img.shields.io/badge/Markdown-121011?style=for-the-badge&logo=markdown&logoColor=white">
 <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>  
