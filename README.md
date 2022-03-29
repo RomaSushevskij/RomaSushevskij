@@ -3,7 +3,7 @@
 ## 🦾 My skills:  
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=DF4C26" alt="HTML">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=#2FA7D9">
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=ECD243">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121011?style=for-the-badge&logo=typescript&logoColor=1D6CB9">
 <img alt="React" src="https://img.shields.io/badge/react-121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
