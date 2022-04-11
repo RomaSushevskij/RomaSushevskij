@@ -1,5 +1,6 @@
 ![Header](https://github.com/RomaSushevskij/RomaSushevskij/blob/main/assets/header.png)
-##[💼 My portfolio](https://romasushevskij.github.io/Portfolio/)
+
+## <a href="https://romasushevskij.github.io/Portfolio/" style="color: black">💼 My portfolio</a>
 ## 💻 My skills:  
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=DF4C26" alt="HTML">
