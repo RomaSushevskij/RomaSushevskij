@@ -1,7 +1,6 @@
 ![Header](https://github.com/RomaSushevskij/RomaSushevskij/blob/main/assets/header.png)
 
-## <a href="https://romasushevskij.github.io/Portfolio/" style="color: black">💼 My portfolio</a>
-## 💻 My skills:  
+[![Portfolio](https://github.com/RomaSushevskij/RomaSushevskij/blob/main/assets/portfolio.svg)](https://romasushevskij.github.io/Portfolio/)
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=DF4C26" alt="HTML">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=#2FA7D9">
